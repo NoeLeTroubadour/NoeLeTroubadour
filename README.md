@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NoeLeTroubadour
-- 👀 I’m interested in apple juice and big burgers
-- 🌱 I’m currently learning all the languages in the world
-- 💞️ I’m looking to collaborate on the new super smash bros
-- 📫 How to reach me go to the moon
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning pyhton
 
 <!---
 NoeLeTroubadour/NoeLeTroubadour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
