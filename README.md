@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoeLeTroubadour
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning pyhton
+- 👀 I’m interested in fromage.
+- 🌱 I’m currently learning.
 
 <!---
 NoeLeTroubadour/NoeLeTroubadour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
