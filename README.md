@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoeLeTroubadour
-- 👀 I’m interested in fromage.
+- 👀 I’m interested in *.
 - 🌱 I’m currently learning.
 
 <!---
